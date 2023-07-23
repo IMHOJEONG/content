@@ -1,5 +1,5 @@
 ---
-title: Pseudo-classes and pseudo-elements
+title: 의사-클래스 and 의사-요소들
 slug: Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements
 page-type: learn-module-chapter
 ---
